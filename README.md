@@ -1,5 +1,5 @@
 # 💫 About Me:
-Spring Boot Developer | Full-Stack Java Developer | Spring Boot, Hibernate, RESTful APIs, Docker, and Cloud
+Spring Boot Developer | Full-Stack Java Developer | Spring Boot, Hibernate, RESTful APIs, Docker
 
 
 ## 🌐 Socials:
